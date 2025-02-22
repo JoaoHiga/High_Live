@@ -1,6 +1,6 @@
 # [TecsupLive]([https://elliotgaramendi.github.io/dinodev-ai/](https://joaohiga.github.io/TecsupLive))
 
-![Tecsup-Live.png](https://postimg.cc/LqVrZgrz)
+[![Tecsup-Live.png](https://i.postimg.cc/26pmM4GX/Tecsup-Live.png)](https://postimg.cc/LqVrZgrz)
 
 ## 📜 Descripción 📜
 
