@@ -1,6 +1,9 @@
 # [TecsupLive]([https://elliotgaramendi.github.io/dinodev-ai/](https://joaohiga.github.io/TecsupLive))
 
 [![Tecsup-Live.png](https://i.postimg.cc/26pmM4GX/Tecsup-Live.png)](https://postimg.cc/LqVrZgrz)
+[![Tecsup-Live-Artistast.png](https://i.postimg.cc/QtkLzvHH/Tecsup-Live-Artistast.png)](https://postimg.cc/JDndD63L)
+[![Tecsup-Live-Cronograma.png](https://i.postimg.cc/9Mj5JcX6/Tecsup-Live-Cronograma.png)](https://postimg.cc/5HpRtdCg)
+[![Tecsup-Live-Contacto.png](https://i.postimg.cc/MGBJ7nw0/Tecsup-Live-Contacto.png)](https://postimg.cc/mcTnR2th)
 
 ## 📜 Descripción 📜
 
