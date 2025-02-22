@@ -4,7 +4,8 @@
 
 ## Descripción
 
-**TecsupLive** es una página de aterrizaje diseñada para promocionar eventos en vivo organizados por Tecsup. Este proyecto tiene como objetivo proporcionar información detallada sobre los eventos, incluyendo artistas participantes, cronogramas y opciones de contacto.
+**TecsupLive** es una página de aterrizaje diseñada para promocionar eventos en vivo organizados por Tecsup. Este proyecto tiene como objetivo desarrollar una plataforma digital que optimice la organización y difusión de eventos musicales en vivo, facilitando la conexión entre artistas y público.
+
 
 ## Tecnologías Utilizadas
 
